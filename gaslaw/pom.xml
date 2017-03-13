@@ -3,14 +3,14 @@
 	<groupId>com.demo.app</groupId>
 	<artifactId>gaslaw</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>gaslaw Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<scm>
 		<connection>scm:git:git@github.com:ramjaya/gaslaw.git</connection>
 		<url>scm:git:git@github.com:ramjaya/gaslaw.git</url>
 		<developerConnection>scm:git:git@github.com:ramjaya/gaslaw.git</developerConnection>
-		<tag>gaslaw-0.0.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
