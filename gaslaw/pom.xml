@@ -4,7 +4,7 @@
 	<artifactId>gaslaw</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.3-SNAPSHOT</version>
-	<name>gaslaw Maven Webapp</name>
+	<name>gaslaw</name>
 	<url>http://maven.apache.org</url>
 	<scm>
 		<connection>scm:git:git@github.com:ramjaya/gaslaw.git</connection>
